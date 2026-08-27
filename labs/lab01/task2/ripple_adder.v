@@ -4,7 +4,6 @@
 //
 // TODO: instantiate four FA_Gate modules (name them FA0..FA3) and connect
 // them into a ripple-carry chain, matching the pattern from lecture:
-//
 //   FA0: a[0], b[0], cin  -> sum[0], c1
 //   FA1: a[1], b[1], c1   -> sum[1], c2
 //   FA2: a[2], b[2], c2   -> sum[2], c3
